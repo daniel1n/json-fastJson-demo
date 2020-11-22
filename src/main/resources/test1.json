@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "5bce9823f48c002ee8e5841b"
+  },
+  "phone_number": null,
+  "phone_imei": null,
+  "disable": false,
+  "ukey": null,
+  "qq_number": null,
+  "password": "2df2c631be308070a6813157e0a9b8cb",
+  "password_len": 32,
+  "name": "admin",
+  "created": {
+    "$date": "2018-10-23T11:40:19.845Z"
+  },
+  "weixin_auth": {
+    "unionid": ""
+  },
+  "alias": "超级管理员",
+  "systems": null,
+  "disable_all": null,
+  "ref": 1,
+  "email": "admin@qq.com",
+  "account": [
+    {
+      "secret": "2df2c631be308070a6813157e0a9b8cb",
+      "type": "default"
+    }
+  ],
+  "updateon": {
+    "$date": "2019-06-20T18:22:26.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8e4c0942bbc2db359bb7cb"
+  },
+  "name": "382184878",
+  "alias": "1",
+  "disable": false,
+  "created": {
+    "$date": "2020-10-20T02:31:37.405Z"
+  },
+  "updateon": {
+    "$date": "2020-10-20T02:31:37.421Z"
+  },
+  "email": null,
+  "phone_number": null,
+  "avatar": "",
+  "deleted": false,
+  "expire_datetime": null,
+  "account": [
+    {
+      "type": "default",
+      "secret": "46310fb5d3ce52aec11ca557145aab70"
+    },
+    {
+      "type": "ukey",
+      "secret": ""
+    },
+    {
+      "type": "weixin",
+      "secret": ""
+    }
+  ],
+  "province": null,
+  "disable_all": false,
+  "phone_imei": null,
+  "weibo_auth": {
+    "unionid": ""
+  },
+  "ukeypassword": null,
+  "iPhone_imei": null,
+  "isRootUser": false,
+  "password_back": null,
+  "qq_number": null,
+  "desc": null,
+  "password": "46310fb5d3ce52aec11ca557145aab70",
+  "password_len": 8,
+  "info": {},
+  "city": null,
+  "ref": 1,
+  "ukey": null,
+  "start_time": null,
+  "weixin_auth": {
+    "unionid": ""
+  },
+  "country": null,
+  "phone_mac": null,
+  "creator_id": null,
+  "phone_pad_key": null,
+  "end_time": null,
+  "iPad_imei": null,
+  "use_type": null,
+  "systems": [],
+  "dingding_userid": null,
+  "white_list": null,
+  "cas_user_id": "",
+  "company_id": "",
+  "system_id": "",
+  "user_node_id": "",
+  "user_alias": "new_rq_037",
+  "extra": {}
+}
+]

@@ -1,0 +1,7 @@
+insert into test(ID,NAME, PASSWORD)VALUES('{"$oid":"5bce9823f48c002ee8e5841b"}','admin','2df2c631be308070a6813157e0a9b8cb')
+insert into test(ID,NAME, PASSWORD)VALUES('{"$oid":"5f8e4c0942bbc2db359bb7cb"}','382184878','46310fb5d3ce52aec11ca557145aab70')
+insert into test(ID,NAME, PASSWORD)VALUES('{"$oid":"5bce9823f48c002ee8e5841b"}','admin','2df2c631be308070a6813157e0a9b8cb')
+insert into test(ID,NAME, PASSWORD)VALUES('{"$oid":"5f8e4c0942bbc2db359bb7cb"}','382184878','46310fb5d3ce52aec11ca557145aab70')
+
+
+insert into user(name, password, alias) VALUES('admin','2df2c631be308070a6813157e0a9b8cb','超级管理员'),

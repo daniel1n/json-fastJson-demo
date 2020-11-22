@@ -1,0 +1,5 @@
+insert into test(ID,NAME, PASSWORD)VALUES('1','tom','123456')
+insert into test(ID,NAME, PASSWORD)VALUES('1','tom','123456')
+insert into test(ID,NAME, PASSWORD)VALUES('2','tom2','123456')
+insert into test(ID,NAME, PASSWORD)VALUES('1','tom','123456')
+insert into test(ID,NAME, PASSWORD)VALUES('2','tom2','123456')
